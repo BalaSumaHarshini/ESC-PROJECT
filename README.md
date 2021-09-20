@@ -1,4 +1,3 @@
 # ESC-PROJECT
-It is our first user story repository 
-hii iam v and iam a good boy
+It is our first user story repository
 hello this is N B S Harshini
